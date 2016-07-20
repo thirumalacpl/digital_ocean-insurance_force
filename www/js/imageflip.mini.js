@@ -70,8 +70,8 @@
                         } else {
                             a("#tadinfo").html("")
                         }
-                        //var ee = "http://insurance.fourthforce.in/insurance/uploads/screen480x480.jpeg";
-                       // var eee = "http://insurance.fourthforce.in/insurance/uploads/NaturalWallpaper 9.jpg";
+                        //var ee = "http://insurance.fourthforce.in/uploads/screen480x480.jpeg";
+                       // var eee = "http://insurance.fourthforce.in/uploads/NaturalWallpaper 9.jpg";
                        var eee = e;
 
                         var t = eee.replace(/ /g, "%20");
